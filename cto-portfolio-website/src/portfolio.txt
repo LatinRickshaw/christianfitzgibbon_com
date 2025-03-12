@@ -1,0 +1,56 @@
+🚀 Technology Leader | Board Advisor | Interim CTO
+A strategic and hands-on technology leader with a proven track record of driving digital transformation, scaling engineering teams, and delivering impactful technical solutions. Experienced in advising boards, guiding technology strategy, and shaping the future of tech-driven businesses.
+📌 Key Areas of Expertise
+Board Advisory & Tech NED – Guiding executive teams on technology strategy, governance, and risk.
+Interim CTO & Technology Leadership – Leading organisations through scale-up challenges, digital transformation, and technical pivots.
+Data & AI Strategy – Leveraging AI-driven engineering, data platforms, and cloud solutions to drive business value.
+Scaling & Engineering Efficiency – Implementing best practices such as DORA metrics, Agile/XP, and DevSecOps.
+Regulatory & Compliance – Experience with ISO 27001, ITSM, and ISMS frameworks to enhance security and governance.
+🏆 Board & Advisory Experience
+Technical Advisor & Architecture Council Chair – Zenobē Energy
+Mentor & Leadership Coach – Engineering teams across multiple organisations
+Regulatory & Compliance Guidance – Implemented governance structures for ISO 27001, ITSM, and ISMS
+🛠️ Skills & Technologies
+Executive Leadership: Technology Strategy, Digital Transformation, Board Engagement
+Cloud & DevOps: AWS, Terraform, Kubernetes, Serverless Architectures
+Data & AI: Kafka, Apache Spark, Data Lakes, Machine Learning Pipelines
+Software Development: TypeScript, React, Python, PHP, Event-Driven Architecture
+Regulatory & Security: ISO 27001, ITSM, GDPR Compliance
+🎤 Speaking & Thought Leadership
+Contributor to Open Charge Alliance (OCA) – Shaping OCPP 2.0.1 standards
+Speaker at Industry Panels & Conferences on AI, EV Charging, and Digital Transformation
+Published technical blogs & whitepapers on best practices in engineering leadership
+💼 Portfolio of Work
+🔹 Zenobē Energy Limited - Current
+Role: Senior Technical Expert
+Impact:
+Established an Architecture Council for strategic technical alignment across the business.
+Implemented AI-driven software engineering intelligence tools, improving delivery predictability and PR efficiency.
+Built an innovative stateless OCPP proxy, unlocking additional commercial opportunities for EV fleet customers.
+🔹 Care Planner Limited
+Role: Chief Technology Officer (Interim CTO)
+Impact:
+Led a cross-functional team restructure, significantly improving productivity and code quality.
+Delivered a React Native mobile app, resolving offline user experience issues and reducing customer complaints.
+Implemented ISO 27001 compliance and ITSM best practices, ensuring regulatory alignment and operational excellence.
+🔹 Swarco UK
+Role: Technical Leader
+Impact:
+Architected and delivered a high-transaction EV network back-office system, supporting nationwide scalability.
+Developed a React Native white-label mobile app, enabling rapid market expansion.
+Designed and implemented CI/CD pipelines, improving deployment efficiency across multiple environments.
+🔹 Oxfordshire County Council
+Role: Technical Leader
+Impact:
+Spearheaded the digital transformation of public services, modernising citizen-facing applications.
+Successfully transitioned the organisation from Waterfall to Agile methodologies, improving delivery cadence.
+🔹 Falcon Copiers Ltd
+Role: Head of Digital
+Impact:
+Sole attribution for the multi-million pound UK national growth of the business through an online portfolio of business acquisition entities.
+Technical Leader of a national business syndicate producing millions of pounds of business every month.
+📞 Let’s Connect
+📧 christian.fitzgibbon@gmail.com
+🌍 Oxford, UK
+🔗 LinkedIn: linkedin.com/in/christianfitzgibbon
+Interested in board advisory roles, technical NED positions, or interim CTO engagements? Let’s discuss how I can drive technology success for your organisation!
